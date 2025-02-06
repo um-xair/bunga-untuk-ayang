@@ -7,7 +7,7 @@
 – a simple yet meaningful digital gift. This project presents a virtual flower in a vase as a heartfelt gesture for someone special.  
 
 ## Live Demo  
-Check it out here: [bunga-untuk-ayang.netlify.app](https://bunga-untuk-ayang.netlify.app/)  
+Check it out here: [E-Flower](https://e-flower.netlify.app/)  
 Check it out on Behance [bunga-flowers-in-the-vase](https://www.behance.net/gallery/218333587/Bunga-Flowers-in-the-vase)
 
 ## Features  
